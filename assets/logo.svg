@@ -1,0 +1,9 @@
+<svg width="256" height="256" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+  <rect width="512" height="512" fill="#121212"/>
+  <g transform="translate(256,256)">
+    <circle r="140" fill="#6F42C1" opacity="0.8"/>
+    <circle r="110" fill="#007BFF" opacity="0.85"/>
+    <circle r="80"  fill="#17E9E0" opacity="0.95"/>
+    <text y="22" font-size="108" font-family="Arial" font-weight="700" fill="#FFFFFF" text-anchor="middle">CCQ</text>
+  </g>
+</svg>
